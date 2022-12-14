@@ -1,2 +1,2 @@
 # Beam
-A Free, Fast, &amp; Secure File Transfer System
+A Free, Fast, Secure &amp; Anonymous File Transfer System
